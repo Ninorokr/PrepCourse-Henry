@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 del PrepCourse
+Este es un proyecto de prueba de como crear un repositorio desde github a la computadora.
